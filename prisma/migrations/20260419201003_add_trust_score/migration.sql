@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "User" ADD COLUMN     "trustScore" DOUBLE PRECISION NOT NULL DEFAULT 100;
